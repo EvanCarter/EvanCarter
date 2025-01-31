@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I've recently finished a career break full of traveling, farming, and hiking. I like distributed systems and building end to end products. I've made a handful of iOS apps check out my most recent one [here](https://alive-wildflower-aea.notion.site/HealthFitBuddy-better-name-TBD-18c2a79bfe8b80a1ab04d3422e711320)!
 <!--
 **EvanCarter/EvanCarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
