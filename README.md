@@ -1,4 +1,4 @@
-## Hi there 👋
+## Whaddup 🤙
 
 Making it ridiculously easy for patients to access life-changing medicines.
 <!--
